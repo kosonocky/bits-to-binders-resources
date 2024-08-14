@@ -19,7 +19,7 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 
 
 ### Protein Structure Prediction
-1. AlphaFold2 / ColabFold [paper](https://www.nature.com/articles/s41586-021-03819-2) [code](https://github.com/google-deepmind/alphafold) [colab](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
+1. AlphaFold2 / ColabFold [[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[code]](https://github.com/google-deepmind/alphafold) [[colab]](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 2. AlphaFold3 [paper] [server]
 3. ESMFold [paper] [code] [server]
 4. RoseTTAFold [paper] [code]
