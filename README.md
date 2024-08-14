@@ -13,6 +13,7 @@ Resources for the BioML Challenge 2024: Bits to Binders
 - [Biology](#biology)
   - [CAR-T Literature](#car-t-literature)
   - [CD20 Literature](#cd20-literature)
+  - [CD19 Literature](#cd19-literature)
 
 
 ## Protein Design
