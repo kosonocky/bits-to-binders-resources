@@ -64,8 +64,8 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 - MutCompute [[paper]](https://www.biorxiv.org/content/10.1101/833905v1.full) [[server]](https://mutcompute.com/)
 
 ### Relevant Literature
-- [Improving de novo protein binder design with deep learning, Bennett et al., 2023](https://www.nature.com/articles/s41467-023-38328-5)
-- [Improving Protein Expression, Stability, and Function with ProteinMPNN, Sumida et al., 2024](https://pubs.acs.org/doi/10.1021/jacs.3c10941)
+- [Improving de novo protein binder design with deep learning](https://www.nature.com/articles/s41467-023-38328-5), Bennett et al., 2023
+- [Improving Protein Expression, Stability, and Function with ProteinMPNN](https://pubs.acs.org/doi/10.1021/jacs.3c10941), Sumida et al., 2024
 
 ### Miscellaneous
 - [Tools suggested by Adaptyv Bio](https://design.adaptyvbio.com/tools)
