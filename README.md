@@ -9,11 +9,16 @@ Resources for the BioML Challenge 2024: Bits to Binders
   - [Generative Models](#generative-models)
   - [Encoder Models](#encoder-models)
   - [Other Useful Tools](#other-useful-tools)
-- [CAR-T Literature](#car-t-literature)
-- [CD20 Literature](#cd20-literature)
+- [Biology](#biology)
+  - [CAR-T Literature](#car-t-literature)
+  - [CD20 Literature](#cd20-literature)
 
 
 ## Protein Design
+
+Here is a compilation of many tools used by the UT Austin BioML Society. This is not a comprehensive list so we are likely missing some great tools. For a comprehensive list, check out [this great repository!](https://github.com/Peldom/papers_for_protein_design_using_DL?tab=readme-ov-file)
+
+
 ### Protein Structure Prediction
 1. AlphaFold2 / ColabFold [paper] [code] [colab]
 2. AlphaFold3 [paper] [server]
@@ -26,18 +31,26 @@ Resources for the BioML Challenge 2024: Bits to Binders
 2. LigandMPNN [paper] [repo] [colab]
 3. ESM-IF1 [paper] [repo] [colab]
 
-
-
-
 ### Generative Models
-
+1. RFDiffusion [paper] [code] [colab]
+2. RFDiffusionAllAtom [paper] [code]
+3. ProGen [paper] [code]
+4. ESM-3 [paper] [code]
 
 ### Encoder Models
+1. ESM-2 [paper] [code]
+2. SaProt [paper] [code]
+3. Prost-T5 [paper] [code]
 
 
 ### Other Useful Tools
+1. FoldSeek [paper] [code] [server]
+2. MMseqs2 [paper] [code]
+3. MutCompute [paper] [code] [server]
+4. 
 
+## Biology
 
-## CAR-T Literature
+### CAR-T Literature
 
-## CD20 Literature
+### CD20 Literature
