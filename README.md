@@ -15,12 +15,11 @@ Resources for the BioML Challenge 2024: Bits to Binders
 
 
 ## Protein Design
-
 Here is a compilation of many tools used by the UT Austin BioML Society. This is not a comprehensive list so we are likely missing some great tools. For a comprehensive list, check out [this great repository!](https://github.com/Peldom/papers_for_protein_design_using_DL?tab=readme-ov-file)
 
 
 ### Protein Structure Prediction
-1. AlphaFold2 / ColabFold [paper] [code] [colab]
+1. AlphaFold2 / ColabFold [paper](https://www.nature.com/articles/s41586-021-03819-2) [code](https://github.com/google-deepmind/alphafold) [colab](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 2. AlphaFold3 [paper] [server]
 3. ESMFold [paper] [code] [server]
 4. RoseTTAFold [paper] [code]
