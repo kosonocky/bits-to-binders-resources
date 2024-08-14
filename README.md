@@ -3,14 +3,14 @@ Resources for the BioML Challenge 2024: Bits to Binders
 
 
 ## Table of Contents:
-- Protein Design
-  - Protein Structure Prediction
-  - Inverse Folding
-  - Encoder Models
-  - Generative Models
-  - Other Useful Tools
-- CAR-T Literature
-- CD20 Literature
+- [Protein Design](#protein-design)
+  - [Protein Structure Prediction](#protein-structure-prediction)
+  - [Inverse Folding](#inverse-folding)
+  - [Generative Models](#generative-models)
+  - [Encoder Models](#encoder-models)
+  - [Other Useful Tools](#other-useful-tools)
+- [CAR-T Literature](#car-t-literature)
+- [CD20 Literature](#cd20-literature)
 
 
 ## Protein Design
@@ -25,3 +25,19 @@ Resources for the BioML Challenge 2024: Bits to Binders
 1. ProteinMPNN [paper] [repo] [colab]
 2. LigandMPNN [paper] [repo] [colab]
 3. ESM-IF1 [paper] [repo] [colab]
+
+
+
+
+### Generative Models
+
+
+### Encoder Models
+
+
+### Other Useful Tools
+
+
+## CAR-T Literature
+
+## CD20 Literature
