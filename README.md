@@ -54,11 +54,12 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 
 ### Miscellaneous
 - [Tools suggested by Adaptyv Bio](https://design.adaptyvbio.com/tools)
-- Lecture on Protein Design from the BioML Society [video](https://www.youtube.com/watch?v=b00hCibYJ8U) [slides](https://docs.google.com/presentation/d/1gekGeREeUzbPq6tnCT3VKg60Rp0OSjF9ZZFUjR25F4Q/edit?usp=sharing)
+- Lecture on Protein Design from the BioML Society [[video]](https://www.youtube.com/watch?v=b00hCibYJ8U) [[slides]](https://docs.google.com/presentation/d/1gekGeREeUzbPq6tnCT3VKg60Rp0OSjF9ZZFUjR25F4Q/edit?usp=sharing)
 
 
 ## Biology
 
 ### CAR-T Literature
-
+- [CAR T cell immunotherapy for human cancer, June et al. 2018](https://www.science.org/doi/full/10.1126/science.aar6711?casa_token=SziCZW0VnSAAAAAA%3AWueMwGrpKrCFBFVE-6h6hXszln1bTrIBEquo8KRGAWd3eK388Uix_uSgH8dpM-oPDEiIGCRIvWtQ)
+- 
 ### CD20 Literature
