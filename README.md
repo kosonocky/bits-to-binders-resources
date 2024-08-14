@@ -10,6 +10,7 @@ Resources for the BioML Challenge 2024: Bits to Binders
   - [Encoder Models](#encoder-models)
   - [Other Useful Tools](#other-useful-tools)
   - [Relevant Literature](#relevant-literature)
+  - [Miscellaneous](#miscellaneous)
 - [Biology](#biology)
   - [CAR-T Literature](#car-t-literature)
   - [CD20 Literature](#cd20-literature)
