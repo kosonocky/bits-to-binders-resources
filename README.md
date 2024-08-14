@@ -26,6 +26,8 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 - ESMFold [[paper]](https://www.science.org/doi/10.1126/science.ade2574) [[code]](https://github.com/facebookresearch/esm) [[server]](https://esmatlas.com/resources?action=fold)
 - RoseTTAFold [[paper]](https://www.science.org/doi/10.1126/science.abj8754) [[code]](https://github.com/RosettaCommons/RoseTTAFold)
 - RoseTTAFoldAllAtom [[paper]](https://www.science.org/doi/10.1126/science.adl2528) [[code]](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)
+- UMol [[paper]](https://www.nature.com/articles/s41467-024-48837-6) [[code]](https://github.com/patrickbryant1/Umol)
+- AlphaFold2-RAVE [[paper]](https://arxiv.org/abs/2404.07102) [[code]](https://github.com/tiwarylab/alphafold2rave)
 
 ### Inverse Folding
 - ProteinMPNN [[paper]](https://www.science.org/doi/10.1126/science.add2187) [[repo]](https://github.com/dauparas/ProteinMPNN)
@@ -35,13 +37,24 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 ### Generative Models
 - RFDiffusion [[paper]](https://www.nature.com/articles/s41586-023-06415-8) [[code]](https://github.com/RosettaCommons/RFdiffusion) [[colab]](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb)
 - RFDiffusionAllAtom [[paper]](https://www.science.org/doi/10.1126/science.adl2528) [[code]](https://github.com/baker-laboratory/rf_diffusion_all_atom)
+- Protpardelle [paper](https://www.pnas.org/doi/10.1073/pnas.2311500121) [code](https://github.com/ProteinDesignLab/protpardelle)
+- Chroma [paper](https://www.nature.com/articles/s41586-023-06728-8) [code](https://github.com/generatebio/chroma)
 - ProGen [[paper]](https://www.nature.com/articles/s41587-022-01618-2) [[code]](https://github.com/salesforce/progen)
 - ESM-3 [[paper]](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1) [[code]](https://github.com/evolutionaryscale/esm)
+- Framediff [[paper]](https://arxiv.org/abs/2302.02277) [[code]](https://github.com/jasonkyuyim/se3_diffusion)
+- Genie [[paper]](https://arxiv.org/abs/2301.12485) [[code]](https://github.com/aqlaboratory/genie)
+- FoldFlow [[paper]](https://arxiv.org/abs/2310.02391) [[code]](https://github.com/DreamFold/FoldFlow)
+- FrameFlow [[paper]](https://arxiv.org/abs/2310.05297) [[code]](https://github.com/microsoft/protein-frame-flow)
+- Proteus [[paper]](https://www.biorxiv.org/content/10.1101/2024.02.10.579791v1) [[code]](https://github.com/Wangchentong/Proteus)
+- Multiflow [[paper]](https://arxiv.org/abs/2402.04997) [[code]](https://github.com/jasonkyuyim/multiflow?tab=readme-ov-file)
+- PepFlow [[paper]](https://www.nature.com/articles/s42256-024-00860-4) [[code]](https://github.com/physicshinzui/pepflow)
 
-### Encoder Models
+### Language Models
 - ESM-2 [[paper]](https://www.science.org/doi/10.1126/science.ade2574) [[code]](https://github.com/facebookresearch/esm)
 - SaProt [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v1) [[code]](https://github.com/westlake-repl/SaProt)
 - Prost-T5 [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.23.550085v1) [[code]](https://github.com/mheinzinger/ProstT5)
+- ProtBERT [paper](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274) [huggingface](https://huggingface.co/Rostlab/prot_bert)
+- ProtTrans [paper](https://pubmed.ncbi.nlm.nih.gov/34232869/) [code](https://github.com/agemagician/ProtTrans)
 
 
 ### Other Useful Tools
@@ -55,7 +68,7 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 
 ### Miscellaneous
 - [Tools suggested by Adaptyv Bio](https://design.adaptyvbio.com/tools)
-- Lecture on Protein Structure Prediction from the BioML Society [video](https://www.youtube.com/watch?v=IIZ-bDPR2QA) [slides](https://docs.google.com/presentation/d/1LfeUVg0lhv3aztZKTssbWSOiScpze2_6QSqNoT76tPQ/edit?usp=sharing)
+- Lecture on Protein Structure Prediction from the BioML Society [[video]](https://www.youtube.com/watch?v=IIZ-bDPR2QA) [[slides]](https://docs.google.com/presentation/d/1LfeUVg0lhv3aztZKTssbWSOiScpze2_6QSqNoT76tPQ/edit?usp=sharing)
 - Lecture on Protein Design from the BioML Society [[video]](https://www.youtube.com/watch?v=b00hCibYJ8U) [[slides]](https://docs.google.com/presentation/d/1gekGeREeUzbPq6tnCT3VKg60Rp0OSjF9ZZFUjR25F4Q/edit?usp=sharing)
 
 
