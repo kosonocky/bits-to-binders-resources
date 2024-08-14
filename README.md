@@ -61,6 +61,15 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 ## Biology
 
 ### CAR-T Literature
-- [CAR T cell immunotherapy for human cancer, June et al. 2018](https://www.science.org/doi/full/10.1126/science.aar6711?casa_token=SziCZW0VnSAAAAAA%3AWueMwGrpKrCFBFVE-6h6hXszln1bTrIBEquo8KRGAWd3eK388Uix_uSgH8dpM-oPDEiIGCRIvWtQ)
-- 
-### CD20 Literature
+- [CAR T cell immunotherapy for human cancer, June et al., 2018](https://www.science.org/doi/full/10.1126/science.aar6711?casa_token=SziCZW0VnSAAAAAA%3AWueMwGrpKrCFBFVE-6h6hXszln1bTrIBEquo8KRGAWd3eK388Uix_uSgH8dpM-oPDEiIGCRIvWtQ)
+- [Recent advances and discoveries in the mechanisms and functions of CAR T cells, Larson et al., 2021](https://www.nature.com/articles/s41568-020-00323-z)
+- [CAR-T design: Elements and their synergistic function, Jayaraman et al., 2020](https://www.sciencedirect.com/science/article/pii/S2352396420303078?ref=cra_js_challenge&fr=RR-1)
+### CD20 (target) Literature
+- [The Development of a Recombinant scFv Monoclonal Antibody Targeting Canine CD20 for Use in Comparative Medicine, Jain et al., 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4760772/)
+- [CD20 as a target for therapy, Winiarska et al., 2007](https://www.termedia.pl/-Review-paper-CD20-as-a-target-for-therapy,10,9455,1,1.html)
+- [Mechanisms of action of CD20 antibodies, Boross et al., 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3512181/)
+- [Rituximab (monoclonal anti-CD20 antibody): mechanisms of action and resistance, Smith 2003](https://www.nature.com/articles/1206939)
+
+### CD19 (not the target, but somewhat relevant)
+- [CD19: a biomarker for B cell development, lymphoma diagnosis and therapy, Wang et al., 2012](https://link.springer.com/article/10.1186/2162-3619-1-36)
+- [CAR therapy: the CD19 paradigm, Sadelain 2015](https://www.jci.org/articles/view/80010)
