@@ -20,32 +20,32 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 
 ### Protein Structure Prediction
 1. AlphaFold2 / ColabFold [[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[code]](https://github.com/google-deepmind/alphafold) [[colab]](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
-2. AlphaFold3 [paper] [server]
-3. ESMFold [paper] [code] [server]
-4. RoseTTAFold [paper] [code]
-5. RoseTTAFoldAllAtom [paper] [code]
+2. AlphaFold3 [[paper]](https://www.nature.com/articles/s41586-024-07487-w) [[server]](https://alphafoldserver.com/about)
+3. ESMFold [[paper]](https://www.science.org/doi/10.1126/science.ade2574) [[code]](https://github.com/facebookresearch/esm) [[server]](https://esmatlas.com/resources?action=fold)
+4. RoseTTAFold [[paper]](https://www.science.org/doi/10.1126/science.abj8754) [[code]](https://github.com/RosettaCommons/RoseTTAFold)
+5. RoseTTAFoldAllAtom [[paper]](https://www.science.org/doi/10.1126/science.adl2528) [[code]](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)
 
 ### Inverse Folding
-1. ProteinMPNN [paper] [repo] [colab]
-2. LigandMPNN [paper] [repo] [colab]
-3. ESM-IF1 [paper] [repo] [colab]
+1. ProteinMPNN [[paper]] [[repo]] [[colab]]
+2. LigandMPNN [[paper]] [[repo]] [[colab]]
+3. ESM-IF1 [[paper]] [[repo]] [[colab]]
 
 ### Generative Models
-1. RFDiffusion [paper] [code] [colab]
-2. RFDiffusionAllAtom [paper] [code]
-3. ProGen [paper] [code]
-4. ESM-3 [paper] [code]
+1. RFDiffusion [[paper]] [[code]] [[colab]]
+2. RFDiffusionAllAtom [[paper]] [[code]]
+3. ProGen [[paper]] [[code]]
+4. ESM-3 [[paper]] [[code]]
 
 ### Encoder Models
-1. ESM-2 [paper] [code]
-2. SaProt [paper] [code]
-3. Prost-T5 [paper] [code]
+1. ESM-2 [[paper]] [[code]]
+2. SaProt [[paper]] [[code]]
+3. Prost-T5 [[paper]] [[code]]
 
 
 ### Other Useful Tools
-1. FoldSeek [paper] [code] [server]
-2. MMseqs2 [paper] [code]
-3. MutCompute [paper] [code] [server]
+1. FoldSeek [[paper]] [[code]] [[server]]
+2. MMseqs2 [[paper]] [[code]]
+3. MutCompute [[paper]] [[code]] [[server]]
 4. 
 
 ## Biology
