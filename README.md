@@ -68,6 +68,7 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 - [Improving Protein Expression, Stability, and Function with ProteinMPNN](https://pubs.acs.org/doi/10.1021/jacs.3c10941), Sumida et al., 2024
 
 ### Miscellaneous
+- [Synthia](https://app.synthialabs.com/) - LLM that uses protein design tools
 - [Tools suggested by Adaptyv Bio](https://design.adaptyvbio.com/tools)
 - Lecture on Protein Structure Prediction from the BioML Society [[video]](https://www.youtube.com/watch?v=IIZ-bDPR2QA) [[slides]](https://docs.google.com/presentation/d/1LfeUVg0lhv3aztZKTssbWSOiScpze2_6QSqNoT76tPQ/edit?usp=sharing)
 - Lecture on Protein Design from the BioML Society [[video]](https://www.youtube.com/watch?v=b00hCibYJ8U) [[slides]](https://docs.google.com/presentation/d/1gekGeREeUzbPq6tnCT3VKg60Rp0OSjF9ZZFUjR25F4Q/edit?usp=sharing)
