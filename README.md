@@ -23,7 +23,6 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 
 ### Protein Structure Prediction
 - AlphaFold2 / ColabFold [[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[code]](https://github.com/google-deepmind/alphafold) [[colab]](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
-- AlphaFold3 [[paper]](https://www.nature.com/articles/s41586-024-07487-w) [[server]](https://alphafoldserver.com/about)
 - ESMFold [[paper]](https://www.science.org/doi/10.1126/science.ade2574) [[code]](https://github.com/facebookresearch/esm) [[server]](https://esmatlas.com/resources?action=fold)
 - RoseTTAFold [[paper]](https://www.science.org/doi/10.1126/science.abj8754) [[code]](https://github.com/RosettaCommons/RoseTTAFold)
 - RoseTTAFoldAllAtom [[paper]](https://www.science.org/doi/10.1126/science.adl2528) [[code]](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)
@@ -41,7 +40,6 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 - Protpardelle [paper](https://www.pnas.org/doi/10.1073/pnas.2311500121) [code](https://github.com/ProteinDesignLab/protpardelle)
 - Chroma [paper](https://www.nature.com/articles/s41586-023-06728-8) [code](https://github.com/generatebio/chroma)
 - ProGen [[paper]](https://www.nature.com/articles/s41587-022-01618-2) [[code]](https://github.com/salesforce/progen)
-- ESM-3 [[paper]](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1) [[code]](https://github.com/evolutionaryscale/esm)
 - Framediff [[paper]](https://arxiv.org/abs/2302.02277) [[code]](https://github.com/jasonkyuyim/se3_diffusion)
 - Genie [[paper]](https://arxiv.org/abs/2301.12485) [[code]](https://github.com/aqlaboratory/genie)
 - FoldFlow [[paper]](https://arxiv.org/abs/2310.02391) [[code]](https://github.com/DreamFold/FoldFlow)
