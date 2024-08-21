@@ -85,6 +85,7 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 ## Compute Resources
 
 ### TACC
+ - [Brief Overview](https://docs.google.com/document/d/1hObkCVGOPl5yR6pounmR_OA0ZIcxdRhFGAvC5_hGp4s/edit?usp=sharing)
  - [Vista Supercomputer](https://docs.tacc.utexas.edu/hpc/vista/)
  - [Containers on TACC](https://containers-at-tacc.readthedocs.io/en/latest/index.html)
  - [Login](https://tacc.utexas.edu/portal/login)
