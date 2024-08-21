@@ -1,4 +1,4 @@
-# bits-to-binders-resources
+# Bits-to-Binders Resources
 Resources for the BioML Challenge 2024: Bits to Binders
 
 
