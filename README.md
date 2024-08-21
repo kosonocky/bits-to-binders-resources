@@ -14,8 +14,6 @@ Resources for the BioML Challenge 2024: Bits to Binders
 - [Biology](#biology)
   - [CAR-T Literature](#car-t-literature)
   - [CD20 Literature](#cd20-literature)
-  - [CD19 Literature](#cd19-literature)
-
 
 ## Protein Design
 Here is a compilation of many tools used by the UT Austin BioML Society. This is not a comprehensive list so we are likely missing some great tools. For a comprehensive list, check out [this great repository!](https://github.com/Peldom/papers_for_protein_design_using_DL?tab=readme-ov-file)
@@ -83,7 +81,3 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 - [CD20 as a target for therapy](https://www.termedia.pl/-Review-paper-CD20-as-a-target-for-therapy,10,9455,1,1.html), Winiarska et al., 2007
 - [Mechanisms of action of CD20 antibodies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3512181/), Boross et al., 2012
 - [Rituximab (monoclonal anti-CD20 antibody): mechanisms of action and resistance](https://www.nature.com/articles/1206939), Smith 2003
-
-### CD19 (not the target, but somewhat relevant)
-- [CD19: a biomarker for B cell development, lymphoma diagnosis and therapy](https://link.springer.com/article/10.1186/2162-3619-1-36), Wang et al., 2012
-- [CAR therapy: the CD19 paradigm](https://www.jci.org/articles/view/80010), Sadelain 2015
