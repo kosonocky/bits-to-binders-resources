@@ -7,13 +7,16 @@ Resources for the BioML Challenge 2024: Bits to Binders
   - [Protein Structure Prediction](#protein-structure-prediction)
   - [Inverse Folding](#inverse-folding)
   - [Generative Models](#generative-models)
-  - [Encoder Models](#encoder-models)
+  - [Encoder Models](#language-models)
   - [Other Useful Tools](#other-useful-tools)
   - [Relevant Literature](#relevant-literature)
   - [Miscellaneous](#miscellaneous)
 - [Biology](#biology)
   - [CAR-T Literature](#car-t-literature)
   - [CD20 Literature](#cd20-literature)
+- [Compute Resources](#compute-resources)
+  - [TACC](#tacc)
+  - [Other](#other-compute)
 
 ## Protein Design
 Here is a compilation of many tools used by the UT Austin BioML Society. This is not a comprehensive list so we are likely missing some great tools. For a comprehensive list, check out [this great repository!](https://github.com/Peldom/papers_for_protein_design_using_DL?tab=readme-ov-file)
@@ -64,20 +67,31 @@ Here is a compilation of many tools used by the UT Austin BioML Society. This is
 - [Improving Protein Expression, Stability, and Function with ProteinMPNN](https://pubs.acs.org/doi/10.1021/jacs.3c10941), Sumida et al., 2024
 
 ### Miscellaneous
-- [Synthia](https://app.synthialabs.com/) - LLM that uses protein design tools
-- [Tools suggested by Adaptyv Bio](https://design.adaptyvbio.com/tools)
 - Lecture on Protein Structure Prediction from the BioML Society [[video]](https://www.youtube.com/watch?v=IIZ-bDPR2QA) [[slides]](https://docs.google.com/presentation/d/1LfeUVg0lhv3aztZKTssbWSOiScpze2_6QSqNoT76tPQ/edit?usp=sharing)
 - Lecture on Protein Design from the BioML Society [[video]](https://www.youtube.com/watch?v=b00hCibYJ8U) [[slides]](https://docs.google.com/presentation/d/1gekGeREeUzbPq6tnCT3VKg60Rp0OSjF9ZZFUjR25F4Q/edit?usp=sharing)
 
 
 ## Biology
-
 ### CAR-T Literature
 - [CAR T cell immunotherapy for human cancer](https://www.science.org/doi/full/10.1126/science.aar6711?casa_token=SziCZW0VnSAAAAAA%3AWueMwGrpKrCFBFVE-6h6hXszln1bTrIBEquo8KRGAWd3eK388Uix_uSgH8dpM-oPDEiIGCRIvWtQ), June et al., 2018
 - [Recent advances and discoveries in the mechanisms and functions of CAR T cells](https://www.nature.com/articles/s41568-020-00323-z), Larson et al., 2021
 - [CAR-T design: Elements and their synergistic function](https://www.sciencedirect.com/science/article/pii/S2352396420303078?ref=cra_js_challenge&fr=RR-1), Jayaraman et al., 2020
-### CD20 (target) Literature
+### CD20 Literature
 - [The Development of a Recombinant scFv Monoclonal Antibody Targeting Canine CD20 for Use in Comparative Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4760772/), Jain et al., 2016
 - [CD20 as a target for therapy](https://www.termedia.pl/-Review-paper-CD20-as-a-target-for-therapy,10,9455,1,1.html), Winiarska et al., 2007
 - [Mechanisms of action of CD20 antibodies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3512181/), Boross et al., 2012
 - [Rituximab (monoclonal anti-CD20 antibody): mechanisms of action and resistance](https://www.nature.com/articles/1206939), Smith 2003
+
+## Compute Resources
+
+### TACC
+ - [Vista Supercomputer](https://docs.tacc.utexas.edu/hpc/vista/)
+ - [Containers on TACC](https://containers-at-tacc.readthedocs.io/en/latest/index.html)
+ - [Login](https://tacc.utexas.edu/portal/login)
+ - [Create account](https://accounts.tacc.utexas.edu/register)
+
+### Other Compute
+- [Synthia](https://app.synthialabs.com/) - LLM that uses protein design tools
+- [Tools suggested by Adaptyv Bio](https://design.adaptyvbio.com/tools)
+
+
